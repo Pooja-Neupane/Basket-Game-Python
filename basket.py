@@ -1,6 +1,6 @@
 import tkinter as tk
 import random
-from PIL import Image, ImageTk
+from PIL import Image, ImageTK
 
 # Game constants
 WINDOW_WIDTH = 600
@@ -88,3 +88,4 @@ def update_game():
 drop_fruit()
 update_game()
 root.mainloop()
+
