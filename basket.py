@@ -89,3 +89,4 @@ drop_fruit()
 update_game()
 root.mainloop()
 
+
